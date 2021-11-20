@@ -1,0 +1,10 @@
+Steps when to succeed as a software engineer
+
+1. Learn a language
+2. Build a tutorial project to understand what you've learn
+3. Build online coding challenges like frontend masters 
+4. Build a problem solving project.
+5. Volunteer with your skills
+6. Post online about your progress
+7. Join a developer community
+8. Network with people
